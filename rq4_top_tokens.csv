@@ -1,0 +1,61 @@
+llm,rank,token,weight
+Bard,1,*,6.358
+Bard,2,. *,4.259
+Bard,3,is a,3.195
+Bard,4,: *,3.19
+Bard,5,* *,3.012
+Bard,6,are,2.499
+Bard,7,is,2.494
+Bard,8,also,2.403
+Bard,9,. I,2.396
+Bard,10,. The,2.367
+Bard,11,Sure,2.282
+Bard,12,The,2.085
+Bard,13,"Sure ,",1.996
+Bard,14,Here is,1.896
+Bard,15,a number,1.856
+Falcon,1,?,2.807
+Falcon,2,< /,2.186
+Falcon,3,assistant,2.184
+Falcon,4,the,1.949
+Falcon,5,s >,1.914
+Falcon,6,sorry,1.867
+Falcon,7,to,1.842
+Falcon,8,user,1.838
+Falcon,9,/ s,1.831
+Falcon,10,the assistant,1.818
+Falcon,11,"sorry ,",1.739
+Falcon,12,response,1.714
+Falcon,13,Assistant,1.69
+Falcon,14,m sorry,1.662
+Falcon,15,you,1.601
+GPT,1,:,2.168
+GPT,2,like,2.124
+GPT,3,might,2.046
+GPT,4,",",1.945
+GPT,5,various,1.886
+GPT,6,: 95,1.633
+GPT,7,(,1.611
+GPT,8,95 %,1.611
+GPT,9,),1.606
+GPT,10,an,1.6
+GPT,11,95,1.556
+GPT,12,Confidence :,1.511
+GPT,13,-,1.506
+GPT,14,. 1,1.461
+GPT,15,within,1.447
+Llama-2,1,!,4.115
+Llama-2,2,", I",2.929
+Llama-2,3,to help,2.777
+Llama-2,4,I ',2.713
+Llama-2,5,"""",2.324
+Llama-2,6,! I,2.233
+Llama-2,7,question,2.217
+Llama-2,8,:,2.213
+Llama-2,9,happy to,2.184
+Llama-2,10,respectful,2.154
+Llama-2,11,' s,2.055
+Llama-2,12,help,2.054
+Llama-2,13,! Here,2.008
+Llama-2,14,d be,2.006
+Llama-2,15,m here,1.991

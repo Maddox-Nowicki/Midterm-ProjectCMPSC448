@@ -1,0 +1,12 @@
+setting,acc
+all features,0.7259
+without length,0.7118
+without lexical,0.7088
+without formatting,0.6867
+without punctuation,0.6616
+without char_mix,0.7088
+only length,0.494
+only lexical,0.495
+only formatting,0.5412
+only punctuation,0.491
+only char_mix,0.3082

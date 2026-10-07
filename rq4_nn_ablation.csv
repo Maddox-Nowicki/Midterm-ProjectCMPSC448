@@ -1,0 +1,3 @@
+setting,acc,macro_f1
+original,0.8143,0.8186
+stripped (no markdown/newlines/case),0.8012,0.8047

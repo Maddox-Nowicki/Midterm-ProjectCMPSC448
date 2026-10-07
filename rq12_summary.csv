@@ -1,0 +1,9 @@
+,,acc,acc,macro_f1,macro_f1
+,,mean,std,mean,std
+model,mode,,,,
+cnn,both,0.5188,,0.5047,
+cnn,input,0.2375,,0.2045,
+cnn,output,0.5688,,0.5709,
+lstm,both,0.3625,,0.3325,
+lstm,input,0.2375,,0.165,
+lstm,output,0.5125,,0.5162,
